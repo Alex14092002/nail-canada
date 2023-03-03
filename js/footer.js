@@ -30,12 +30,7 @@ footer.innerHTML += `
     </ul>
   </div>
   <div class="item-footer col-12 col-md-3">
-    <div class="fb-page" data-href="https://www.facebook.com/TheOneNailLoungeSpa" data-tabs="timeline" data-width=""
-      data-height="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true"
-      data-show-facepile="true">
-      <blockquote cite="https://www.facebook.com/TheOneNailLoungeSpa" class="fb-xfbml-parse-ignore"><a
-          href="https://www.facebook.com/TheOneNailLoungeSpa">The One Nail Lounge &amp; Spa</a></blockquote>
-    </div>
+  <div class="fb-page" data-href="https://www.facebook.com/profile.php?id=100089822364899" data-tabs="timeline" data-width="" data-height="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/profile.php?id=100089822364899" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/profile.php?id=100089822364899">The One Nail Lounge</a></blockquote></div>
   </div>
 </div>
 </div>
