@@ -56,7 +56,7 @@ body{
     font-family: 'Dosis', sans-serif;
     color: #000;
     text-decoration: none;
-    
+    font-size: 20px;
     transition: color 0.3s ease-in-out;
 }
 
@@ -71,7 +71,8 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     
-    background: -webkit-linear-gradient(#e0b847, #fdfca4 );
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
 }
 .footer-first .icon{
     margin-left: 5px;
@@ -319,7 +320,7 @@ strong{
 .box-booking{   
    padding-left: 10px;
    padding-right: 10px; 
-   border: dotted 3px #e0bc50;
+   border: solid 3px #fcdb7b;
 }
 .pd{
     padding-top: 3px !important;
