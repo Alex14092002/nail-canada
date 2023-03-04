@@ -318,9 +318,10 @@ strong{
     outline: none;
 }
 .box-booking{   
-   padding-left: 10px;
+    padding-left: 10px;
    padding-right: 10px; 
-   border: solid 3px #fcdb7b;
+   background-image: linear-gradient(#e0b847, #fdfca4 , #e0b847);
+   border-radius: 5px;
 }
 .pd{
     padding-top: 3px !important;
